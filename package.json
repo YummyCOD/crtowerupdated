@@ -13,6 +13,10 @@
   "devDependencies": {
     "decentraland-ecs": "^6.11.0"
   },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
   "dependencies": {
     "@dcl/ecs-scene-utils": "^1.7.5",
     "decentraland": "^3.4.6"
